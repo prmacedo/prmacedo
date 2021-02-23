@@ -1,16 +1,21 @@
-### Hi there 👋
+### E aí meu povo, blz? 😁
 
-<!--
-**prmacedo/prmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Paulo Macêdo, e estudo Engenharia de Computação.
 
-Here are some ideas to get you started:
+Já participei de uma empresa júnior na faculdade e fiz alguns projetos,
+agora quero chegar ao próximo nível e fazer aplicações cada vez melhores,
+e que afetem positivamente a sociedade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou me aprofundando em JavaScript,
+e estudo Unity por hobby.
+
+#### Habilidades 💻
+
+- [x] HTML5
+- [x] CSS
+- [x] JS básico
+- [x] PHP básico
+- [x] MySQL
+- [ ] ReactJS
+- [ ] React Native
+- [ ] Node.js
