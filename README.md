@@ -15,6 +15,6 @@ Atualmente estou me aprofundando em JavaScript.
 - [x] JS
 - [x] PHP
 - [x] MySQL
-- [ ] ReactJS
+- [x] ReactJS
 - [ ] React Native
 - [ ] Node.js
